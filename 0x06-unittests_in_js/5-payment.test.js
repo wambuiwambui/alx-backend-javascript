@@ -27,3 +27,4 @@ describe('sendPaymentRequestToApi', () => {
     expect(bigBrother.log.calledOnce).to.be.true;
   });
 });
+

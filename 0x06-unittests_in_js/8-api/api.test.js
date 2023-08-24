@@ -12,4 +12,3 @@ describe('API integration test', () => {
     });
   });
 });
-

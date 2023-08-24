@@ -18,3 +18,4 @@ describe('sendPaymentRequestToApi', () => {
     bigBrother.log.restore();
   });
 });
+
